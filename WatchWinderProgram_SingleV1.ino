@@ -708,7 +708,7 @@ void runCycle() {
     if (current_time < 0) {
       current_time = current_time + 24;
     }
-    if (current_time >= stop_time && current_time <= start_time) {  // If night mode is enabled and the time is night, don't run winder
+    if (current_time >= stop_time && current_time < start_time) {  // If night mode is enabled and the time is night, don't run winder
       winder_time = 0;
       return;
     }
