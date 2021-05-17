@@ -84,7 +84,7 @@ A single press of the encoder button while on the STATUS menu item will cycle th
 A single press of the encoder button while on the TPD menu item will allow for setting the number of turns per day using the encoder. A single press again will set the selected number of turns per day.
 
 #### Adjusting Turn Direction ####
-A single press of the encoder button while on the DIR menu item will cycle through the three different direction settings of the winder (BI/CLK/CCLK).
+A single press of the encoder button while on the DIR menu item will cycle through the three different direction settings of the winder (BI/CLK/CCLK), corresponding to bi-directional, clockwise, and counter-clockwise.
 
 #### Adjusting night mode time interval ####
 A double press of the encoder button while in the menu will allow for setting the time interval in which the winder will run when in night mode using the encoder. A single or double press will set the selected interval.
