@@ -81,7 +81,7 @@ The software will display the time and date after approximately 20s of no input.
 A single press of the encoder button while on the STATUS menu item will cycle through the three different settings of the winder (ON/OFF/NIGHT).
 
 #### Adjusting Turns per Day ####
-A single press of the encoder button while pn the TPD menu item will allow for setting the number of turns per day using the encoder. A single press again will set the selected number of turns per day.
+A single press of the encoder button while on the TPD menu item will allow for setting the number of turns per day using the encoder. A single press again will set the selected number of turns per day.
 
 #### Adjusting Turn Direction ####
 A single press of the encoder button while on the DIR menu item will cycle through the three different direction settings of the winder (BI/CLK/CCLK).
